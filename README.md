@@ -1,7 +1,10 @@
-# Tugas-9-SBD
-Nama : Zihan Zaenal Abidin
-NIM :311910408
-Kelas : TI.19.B2
+# Tugas-9-SBD-19.B1
+```bash
+Nama      : Robi Abda'u
+NIM       : 311910563
+Kelas     : TI.19.B1
+M. Kuliah : Sistem Basis Data - Tugas 9
+Dosen     : M Najamuddin Dwi Miharja, S.Kom, M.Kom
 
 1. Tampilan Index
 ![Screenshot (267)](https://user-images.githubusercontent.com/81241228/122491717-b3d2fa80-d00e-11eb-95cc-a96c5964e3fd.png)
