@@ -8,12 +8,19 @@ Dosen     : M Najamuddin Dwi Miharja, S.Kom, M.Kom
 ```
 
 1. Tampilan Index
-![Screenshot (267)](https://user-images.githubusercontent.com/81241228/122491717-b3d2fa80-d00e-11eb-95cc-a96c5964e3fd.png)
+
+![1tampilan index](https://user-images.githubusercontent.com/81896427/123502898-c4701a00-d679-11eb-863a-caedbbc37cbc.png)
+
 2. Tampilan Menambah Data
-![Screenshot (268)](https://user-images.githubusercontent.com/81241228/122491768-c9e0bb00-d00e-11eb-9c71-14ff734a04d8.png)
-![Screenshot (269)](https://user-images.githubusercontent.com/81241228/122491783-d06f3280-d00e-11eb-8fd2-05f714e11634.png)
+
+![2tampilan tambah data](https://user-images.githubusercontent.com/81896427/123502893-c043fc80-d679-11eb-961e-c0906ef954af.png)
+![3tampilan tambah data 2](https://user-images.githubusercontent.com/81896427/123502894-c1752980-d679-11eb-8aeb-a4811f345225.png)
+
 3. Tampilan Edit Data
-![Screenshot (270)](https://user-images.githubusercontent.com/81241228/122491865-f8f72c80-d00e-11eb-8916-2b416f91cdc7.png)
-![Screenshot (271)](https://user-images.githubusercontent.com/81241228/122491885-014f6780-d00f-11eb-9e76-6d12a9f5fee7.png)
+
+![4tampilan edit data](https://user-images.githubusercontent.com/81896427/123502895-c2a65680-d679-11eb-86b3-cfd4010ff63b.png)
+![5tampilan edit data 2](https://user-images.githubusercontent.com/81896427/123502896-c33eed00-d679-11eb-89dc-ac075b3f65bf.png)
+
 4. Delete Data
-![Screenshot (272)](https://user-images.githubusercontent.com/81241228/122491915-0f04ed00-d00f-11eb-8bb4-411e41e45307.png)
+
+![6delete data](https://user-images.githubusercontent.com/81896427/123502897-c3d78380-d679-11eb-9444-28073182f7cc.png)
